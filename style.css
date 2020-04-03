@@ -1,0 +1,25 @@
+body {
+    background: url('assets/freedom.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+    font-family: 'Comic Neue', cursive;
+
+}
+
+.quote {
+text-align: center;
+}
+
+h1 {
+    font-weight: 100;
+    font-size: 3.75rem;
+    width: 100%;
+  
+ 
+}
+
+p {
+    font-size: 2rem;
+    font-style: italic;
+}
